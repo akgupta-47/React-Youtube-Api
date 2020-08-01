@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Redux YouTube Api
 
 the repository excludes a file api_key.js which has the api key to fetch data
 put the following code in a api_key.js file in your main ReduxSimpleStarter file
